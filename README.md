@@ -28,7 +28,7 @@ I am Full Stack Developer. During my career as a Developer, I worked with client
 
 * Tracking and management of heavy-duty vehicles app
 
-* Report Panel made with React JS and Python Flask Framework
+* Report Panel made with React JS and REST API server made with Python Flask Framework
 
 * Webhook processing API REST server made with Python Flask Framework, also integrations with services as HID Global for the biometric process and ID-PAL for the secure user data processing
 
