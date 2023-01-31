@@ -33,7 +33,7 @@ Among the most outstanding projects I have worked on are:
 ### ⭐ My specialties in software development
 * Vanilla JavaScript, React.js, Redux, React Native with Expo and Node.js
 * Python and Flask
-* Base de datos MySQL, PostgreSQL and MongoDB
+* MySQL, PostgreSQL and MongoDB databases
 * Sometimes, creating apps and server REST API documentation
 
 ### 📚 What I'm learning right now
