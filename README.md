@@ -21,14 +21,14 @@
 I'm a Full Stack Engineer with three (3) years of experience programming software (Front-End & Back-End). I'm passionate about being Full Stack. During my career, I have worked for several clients and companies developing E-commerce and adding new functionalities to their applications.
 
 Among the most outstanding projects I have worked on are:
-* 🏦 Banking software that consists of:
+* Banking software that consists of:
   * Desktop application for Windows OS to perform facial recognition and fingerprint enrollment of customers
   * REST API server made with Python Flask for processing customer records (data and documents)
   * Report panel to view in detail each customer record
   * REST API server to serve information to the reporting dashboard
   * Creation of a PostgreSQL database with an architecture to initially store the data of 30,000 customers
-* 🛒 I builded the Front-End of a E-commerce with React.js using Next.js framework and Typescript
-* 🗺️ Freight transport management and geolocation software built with React.js, React Native with Expo, Express.js, MySQL and Google Maps API
+* I builded the Front-End of a E-commerce with React.js using Next.js framework and Typescript
+* Freight transport management and geolocation software built with React.js, React Native with Expo, Express.js, MySQL and Google Maps API
 
 ### ⭐ My specialties in software development
 * Vanilla JavaScript, React.js, Redux, React Native with Expo and Node.js
