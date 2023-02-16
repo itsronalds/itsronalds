@@ -87,7 +87,7 @@ Thesis project corresponding to a software for administrators to monitor and man
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📚 What I'm learning right now
-I'm currently studying and improving my TypeScript skills. On the other hand, I'm studying English, improving my skills with React.js clean patterns and Python, and learning Nest.js framework.
+I'm currently studying and improving my TypeScript skills. On the other hand, I'm studying English, improving my skills with React.js clean patterns and Python.
 
 <!--
 **LancerR40/LancerR40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
