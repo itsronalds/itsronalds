@@ -90,7 +90,7 @@ Thesis project corresponding to a software for administrators to monitor and man
 
 ### Personal projects
 
-***GitHub Searcher***
+***- GitHub Searcher***
 
 ***Description***:
 <br />
