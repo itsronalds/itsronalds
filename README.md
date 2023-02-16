@@ -63,7 +63,7 @@ I built three (3) software for a bank and they are based on:
 
 <hr/>
 
-### [University Thesis Project - URBE](https://github.com/LancerR40/deliveries-dashboard)
+### [University Thesis Project - URBE](https://www.urbe.edu/)
 
 ***- Software for the online management of road freight transportation***
 
