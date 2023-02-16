@@ -98,6 +98,8 @@ Thesis project corresponding to a software for administrators to monitor and man
 GitHub Searcher app to search GitHub users by username and get their information
 <br/>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LancerR40&repo=github-searcher&show_owner=true)](https://github.com/LancerR40/github-searcher)
+
 ***Tech stack***:
 <br/>
 
