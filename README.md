@@ -33,7 +33,7 @@
 ## ⭐ My software development skills
 * JavaScript, React.js, Redux, React Native with Expo and Node.js
 * Python and Flask
-* SQL Server MySQL, PostgreSQL and MongoDB databases
+* SQL Server, MySQL, PostgreSQL and MongoDB databases
 * Creating apps and server REST API documentation
 
 ## 🚀 Projects
