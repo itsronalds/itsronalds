@@ -88,7 +88,7 @@ Thesis project corresponding to a software for administrators to monitor and man
 
 <hr/>
 
-### Personal projects
+## Personal projects
 
 ***- GitHub Searcher***
 
