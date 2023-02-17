@@ -86,9 +86,7 @@ Thesis project corresponding to a software for administrators to monitor and man
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<hr/>
-
-## Personal projects
+## 🛠️ Personal projects
 
 ***- GitHub Searcher***
 
