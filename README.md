@@ -6,6 +6,9 @@
     <a href="https://www.upwork.com/freelancers/~01ec34398bf3523bb0">
       <img src="https://img.shields.io/badge/Upwork-brightgreen?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
     </a>
+    <a href="https://platzi.com/p/abusalehronald/">
+      <img src="https://img.shields.io/badge/Platzi-blue?style=for-the-badge&logo=platzi" alt="Platzi Badge"/>
+    </a>
 <!--     <a href="https://www.instagram.com/abusalehronald/">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a> -->
