@@ -36,8 +36,8 @@
 * Python, Flask
 
 ### Databases
-* SQL: MySQL, SQL Server, PostgreSQL
-* NoSQL: MongoDB
+* MySQL, SQL Server, PostgreSQL
+* MongoDB
 
 ### Documentation
 * Write user documentation
