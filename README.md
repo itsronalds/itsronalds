@@ -34,7 +34,7 @@
 * Freight transport management and geolocation software built with React.js, React Native with Expo, Express.js, MySQL and Google Maps API -->
 
 ## ⭐ My software development skills
-* JavaScript, React.js, Redux, React Native with Expo and Node.js
+* JavaScript, React.js, Redux, React Native, Node.js and Express.js
 * Python and Flask
 * SQL Server, MySQL, PostgreSQL and MongoDB databases
 * Creating apps and server REST API documentation
