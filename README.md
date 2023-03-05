@@ -40,7 +40,7 @@
 * MongoDB
 
 ### Documentation
-* Write user documentation
+* User guides
 * REST API server documentation
 
 ## 🚀 Projects
