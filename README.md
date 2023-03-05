@@ -39,10 +39,12 @@
 * MySQL, SQL Server, PostgreSQL
 * MongoDB
 
-### Others
-* Git
+### Documentation
 * User guides
 * REST API server documentation
+
+### Other tools
+* Git
 
 ## 🚀 Projects
 
