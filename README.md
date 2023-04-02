@@ -83,9 +83,9 @@ I built three (3) software for a bank and they are based on:
 Thesis project corresponding to a software for administrators to monitor and manage cargo deliveries by visualizing transports through the Google Maps API from a Dashboard and a mobile application for carriers.
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LancerR40&repo=deliveries-dashboard&show_owner=true)](https://github.com/LancerR40/deliveries-dashboard)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LancerR40&repo=deliveries-back&show_owner=true)](https://github.com/LancerR40/deliveries-back)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LancerR40&repo=deliveries-app&show_owner=true)](https://github.com/LancerR40/deliveries-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LancerR40&repo=deliveries-dashboard&show_owner=true)](https://github.com/itsronalds/deliveries-dashboard)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LancerR40&repo=deliveries-back&show_owner=true)](https://github.com/itsronalds/deliveries-back)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LancerR40&repo=deliveries-app&show_owner=true)](https://github.com/itsronalds/deliveries-app)
 
 ***Tech stack***:
 <br/>
