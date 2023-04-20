@@ -21,7 +21,7 @@
 </div>
 
 ## 👨🏻‍💻 About me 
-***I'm a Full Stack Engineer with three (3) years of experience programming software***. I'm passionate about being Full Stack. During my career, I have worked for several clients and companies developing E-commerce and adding new functionalities to their applications.
+I am a Full Stack Engineer with three (3) years of experience programming software. I am passionate about being Full Stack. During my career, I have worked for several clients and companies developing banking software, E-commerce's and adding new functionalities to their applications.
 
 ## ⭐ My software development skills
 
@@ -39,6 +39,11 @@
 * MySQL, SQL Server, PostgreSQL
 * MongoDB
 
+### Testing tools
+* Jest
+* Mocha
+* Chai
+
 ### Documentation
 * User guides
 * REST API server documentation
@@ -46,6 +51,7 @@
 ### Other tools
 * Git
 
+<!--
 ## 🚀 Projects
 
 ### [Equaldata Corp](https://www.equaldata.com/en)
@@ -117,6 +123,7 @@ GitHub Searcher app to search GitHub users by username and get their information
 
 ## 📚 What I'm learning right now
 I'm currently studying and improving my TypeScript skills. On the other hand, I'm studying English, improving my skills with React.js clean patterns and Python.
+-->
 
 <!--
 **LancerR40/LancerR40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
