@@ -21,7 +21,7 @@
 </div>
 
 ## 👨🏻‍💻 About me 
-I am a Full Stack Engineer with three (3) years of experience programming software. I am passionate about being Full Stack. During my career, I have worked for several clients and companies developing banking software, E-commerce's and adding new functionalities to their applications.
+I am a Full Stack Developer with three (3) years of experience programming software. I am passionate about being Full Stack. During my career, I have worked for several clients and companies developing banking software, E-commerce's and adding new functionalities to their applications.
 
 ## ⭐ My software development skills
 
