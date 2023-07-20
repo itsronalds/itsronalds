@@ -21,7 +21,13 @@
 </div>
 
 ## 👨🏻‍💻 About me 
-I'm Full Stack Developer with three years of experience programming software. I am passionate about being Full Stack. During my career, I have worked for several clients and companies developing banking software, E-commerce's and adding new functionalities to their applications.
+Computer Engineer and Full Stack Developer with three years of experience designing and developing software for clients and companies. I have worked in collaboration with multidisciplinary teams using agile methodologies such as Scrum for project delivery.
+
+My work has consisted in the development of end-to-end projects and scalability of banking applications, E-commerce's and CMS's using technologies such as React, Node.js, Python, SQL databases and Cloud Computing.
+
+I possess bug fixing skills in both front-end and back-end, which allows me to work independently and meet the requirements set. I am passionate about learning and adapting quickly to new technological stacks, providing support to the team and prioritizing good practices.
+
+In addition, I stand out for my ability to effectively communicate ideas to drive problem solving during software development.
 
 ## ⭐ My software development skills
 
