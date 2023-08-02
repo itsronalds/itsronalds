@@ -9,54 +9,44 @@
     <a href="https://platzi.com/p/abusalehronald/">
       <img src="https://img.shields.io/badge/Platzi-blue?style=for-the-badge&logo=platzi" alt="Platzi Badge"/>
     </a>
-<!--     <a href="https://www.instagram.com/abusalehronald/">
-      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a> -->
   </div>
-  
   <h1>
     Hey there, my name is Ronald
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
-## 👨🏻‍💻 About me 
-Computer Engineer and Full Stack Developer with three years of experience designing and developing software for clients and companies. I have worked in collaboration with multidisciplinary teams using agile methodologies such as Scrum for project delivery.
-
-My work has consisted in the development of end-to-end projects and scalability of banking applications, E-commerce's and CMS's using technologies such as React, Node.js, Python, SQL databases and Cloud Computing.
-
-I possess bug fixing skills in both front-end and back-end, which allows me to work independently and meet the requirements set. I am passionate about learning and adapting quickly to new technological stacks, providing support to the team and prioritizing good practices.
-
-In addition, I stand out for my ability to effectively communicate ideas to drive problem solving during software development.
+## 👨🏻‍💻 About me
+**Bachelor of Science in Computer Engineering** and **Software Developer** with three years of experience designing and developing software for clients and companies. I have worked in multidisciplinary teams using agile methodologies such as **Scrum** and I have developed end-to-end projects, scaling **banking applications**, **E-commerce's**, and **CMS's**. In addition, I have a great ability to perform tasks and solve problems in both front-end and back-end independently, meeting the established requirements.
 
 ## ⭐ My software development skills
 
-### Front-End
-* JavaScript 
+### Languages and Technologies
+
+#### 😉 Languages
+* JavaScript
 * TypeScript
-* React.js, React Native, Redux
-* Material UI, Bootstrap, Tailwind CSS
+* Python
+* PHP
+* Java
 
-### Back-End
-* Node.js, Express.js
-* Python, Flask
-
-### Databases
-* MySQL, SQL Server, PostgreSQL
+#### 🚀 Technologies
+* React
+* React Native
+* Node.js
+* Flask
+* MySQL
+* SQL Server
+* PostgreSQL
 * MongoDB
-
-### Testing tools
 * Jest
 * Mocha
 * Chai
-
-### Documentation
-* User guides
-* REST API server documentation
-
-### Other tools
+* PySide **for desktop apps development**
 * Git
 * Azure
+* User documentation
+* REST API's documentation with Swagger
 
 <!--
 ## 🚀 Projects
