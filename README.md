@@ -34,7 +34,7 @@ I specialize in **React**, **Node.js**, **Python** and **SQL databases**.
 
 🖥️ JavaScript, React, React Native, PySide6
 <br/>
-🗄️ Node.js, Python, Flask, PHP
+🗄️ Node.js, Python, FastAPI, Flask, PHP
 <br/>
 🛢️ MySQL, SQL Server, PostgreSQL
 <br/>
